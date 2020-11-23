@@ -8,4 +8,4 @@ My name is prounounced with a hard C.
 
 I live in Melbourne, where I cycle a lot, hang out with my amazing partner, cook and read.
 
-I'm a non-binary trans woman. She/her or they/them.
+Pronouns: she/her or they/them
