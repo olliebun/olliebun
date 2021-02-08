@@ -1,4 +1,4 @@
-Experienced engineer with a passion for the inner workings of systems. I traverse the whole stack and care about the entire software lifecycle. I strongly believe that should developers truly own the systems they deliver from end to end.
+Experienced engineer with a passion for the inner workings of systems. I traverse the whole stack and care about the entire software lifecycle. I strongly believe that developers should truly own the systems they deliver from end to end.
 
 Working at [GreenSync](https://github.com/greensync) on [deX](https://dex.energy), the Decentralized Energy Exchange: a platform that enables electricity grids to support more distributed renewable energy resources.
 
