@@ -4,8 +4,8 @@ Working at [GreenSync](https://github.com/greensync) on [deX](https://dex.energy
 
 I'm a self-taught developer from a non-technical background. I've been working in tech since 2011.
 
-My name is prounounced with a hard C.
-
 I live in Melbourne, where I cycle a lot, hang out with my amazing partner, cook and read.
+
+Formerly Cera / @ceralena
 
 Pronouns: she/her or they/them
