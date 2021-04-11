@@ -7,5 +7,3 @@ I'm a self-taught developer from a non-technical background. I've been working i
 I live in Melbourne, where I cycle a lot, hang out with my amazing partner, cook and read.
 
 Formerly Cera / @ceralena
-
-Pronouns: she/her or they/them
