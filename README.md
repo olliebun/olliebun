@@ -1,6 +1,6 @@
-Experienced engineer with a passion for the inner workings of systems. I have background in devops, now work as a generalist. Care strongly about performance and simplicity. Observability, end-to-end-ownership, testing in prod.
+Experienced software developer with a passion for the inner workings of systems. I have background in DevOps/Cloud/SRE, now work as a generalist. Care strongly about performance and simplicity. Observability, end-to-end-ownership, testing in prod.
 
-Working at [Flip](https://github.com/flipgroup).
+Working with a great team at [Flip](https://github.com/flipgroup).
 
 Also working on a Dark Souls / Elden Ring twitter bot - hopefully ready early 2022.
 
