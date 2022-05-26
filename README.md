@@ -6,8 +6,6 @@ Love: golang, git, linux, aws, sh, tracing, testinginproduction
 
 Productively tolerate: kubernetes, datadog, metrics, macos, android, java, python, ruby, php
 
-Also working on a Dark Souls / Elden Ring twitter bot - hopefully ready early 2022.
-
 I'm a self-taught developer from a non-technical background. I've been working in tech since 2011.
 
 Melbourne
