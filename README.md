@@ -2,8 +2,10 @@ Experienced software developer with a passion for the inner workings of systems.
 
 Working with a great team at [Flip](https://github.com/flipgroup).
 
-Love: go, git, linux, aws, sh, jira, Windows Subsystem for Linux
+Technology I love: Go, git, Linux, AWS, the bourne shell, Jira, Windows Subsystem for Linux, tracing
 
-Productively tolerate: kubernetes, confluence, datadog, macos, python, ruby, php
+Productively tolerate: Kubernetes, Confluence, DataDog, MacOS, python, ruby, php
 
 Working in tech since 2011.
+
+Vote #1 gamers
